@@ -1,4 +1,10 @@
+
 .idea
 App.log
 /target
 /RTPhonecode.iml
+
+#База данных h2
+/data
+/mem
+
